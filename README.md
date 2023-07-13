@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ## Data Preparation
 
-Download Thumos14 from [BaiDuYun](https://pan.baidu.com/s/1ELYPzRWVVmbWNIs22F0V4A) (code: bdrc).
+Download Thumos14 from [BaiDuYun](https://pan.baidu.com/s/12t2cLcP60rrkYKWtqEcdlg) (code: bdrc).
 
 Please ensure the data structure is as below:
 
