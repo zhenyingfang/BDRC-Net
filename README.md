@@ -1,7 +1,6 @@
 # BDRC-Net
 
-This repository is the official implementation of BDRC-Net.
-**The code will be released after the paper has been accepted.**
+This repository is the official implementation of [BDRC-Net: Boundary Discretization and Reliable Classification Network for Temporal Action Detection](https://arxiv.org/abs/2310.06403).
 
 ## Requirements
 
